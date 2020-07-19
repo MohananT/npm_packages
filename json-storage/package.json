@@ -1,0 +1,11 @@
+{
+  "name": "memoize-json-db",
+  "version": "1.0.1",
+  "description": "Stores content in json format",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohanan",
+  "license": "MIT"
+}
